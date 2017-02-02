@@ -1,0 +1,17 @@
+{
+  "body-json": {
+    "key": "3abc0602-3f85-410f-a2b0-c271e02dbe06",
+    "user": {
+      "name": "user name",
+      "mail": "example@example.com"
+    }
+  },
+  "params": {
+    "path": {},
+    "querystring": {},
+    "header": {
+      "Accept": "application/json",
+      "Content-Type": "application/json"
+    }
+  }
+}

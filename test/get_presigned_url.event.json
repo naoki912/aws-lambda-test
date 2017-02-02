@@ -1,0 +1,13 @@
+{
+  "body-json": {
+    "contentType": "image/png"
+  },
+  "params": {
+    "path": {},
+    "querystring": {},
+    "header": {
+      "Accept": "application/json",
+      "Content-Type": "application/json"
+    }
+  }
+}
