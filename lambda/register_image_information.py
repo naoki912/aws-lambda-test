@@ -1,5 +1,4 @@
 import os
-import json
 
 import boto3
 
@@ -30,4 +29,4 @@ def lambda_handler(event, context):
         }
     )
 
-    return json.dumps(register_image_data['Item'])
+    return register_image_data['Item']

@@ -1,7 +1,6 @@
 import os
 import re
 import uuid
-import json
 
 import boto3
 
@@ -36,4 +35,4 @@ def lambda_handler(event, context):
         }
     }
 
-    return json.dumps(body)
+    return body
